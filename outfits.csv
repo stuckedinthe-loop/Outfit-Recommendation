@@ -1,0 +1,21 @@
+outfit_id,top,bottom,shoes,accessories,style,event,season,color,fit,price
+1,White Shirt,Black Trousers,Loafers,Watch,Formal,Interview,All,White,Slim,2500
+2,Black Shirt,Black Trousers,Formal Shoes,Watch,Formal,Office,Winter,Black,Regular,3000
+3,Blue Shirt,Beige Trousers,Loafers,Watch,Formal,Office,Summer,Blue,Regular,2800
+4,White T-Shirt,Blue Jeans,White Sneakers,Watch,Casual,College,Summer,White,Regular,1800
+5,Black T-Shirt,Blue Jeans,Sneakers,Cap,Casual,College,All,Black,Oversized,2000
+6,Pastel Shirt,Beige Trousers,Loafers,Watch,Elegant,Party,Summer,Pastel,Regular,3500
+7,Black Top,Black Jeans,Heels,Handbag,Trendy,Party,Winter,Black,Slim,4000
+8,Floral Dress,Flats,Flats,Handbag,Trendy,Party,Summer,Floral,Regular,3200
+9,Traditional Kurta,White Pajama,Jutti,Watch,Traditional,Wedding,All,White,Regular,3000
+10,Sherwani,Churidar,Formal Shoes,Watch,Traditional,Wedding,Winter,Black,Regular,5000
+11,Pastel Kurta,White Pajama,Jutti,Bracelet,Traditional,Wedding,Summer,Pastel,Regular,3500
+12,Denim Jacket,Black Jeans,Sneakers,Cap,Streetwear,College,Winter,Blue,Oversized,2800
+13,Oversized T-Shirt,Cargo Pants,Sneakers,Cap,Streetwear,College,All,Black,Oversized,2500
+14,Blazer,Black Trousers,Formal Shoes,Watch,Formal,Interview,Winter,Black,Slim,4500
+15,White Top,Wide Leg Pants,Flats,Handbag,Elegant,Date,Summer,White,Regular,2800
+16,Black Dress,Heels,Heels,Handbag,Elegant,Date,Winter,Black,Slim,4500
+17,Graphic T-Shirt,Cargo Pants,Sneakers,Cap,Streetwear,Party,All,Black,Oversized,2200
+18,Polo T-Shirt,Chinos,Sneakers,Watch,Casual,College,Summer,Blue,Regular,2000
+19,Long Dress,Heels,Heels,Earrings,Elegant,Wedding,All,Red,Regular,4800
+20,Kurta,Jeans,Jutti,Bracelet,Traditional,College,All,Blue,Regular,2200
